@@ -1,0 +1,10 @@
+Replace this with a short paragraph about yourself: your background, skills,
+what kind of roles/opportunities you're looking for, and your tone preference
+(formal, friendly, etc). The agent uses this to personalize every email and
+application answer it drafts.
+
+Example:
+"I'm a third-year Computer Science student with experience in Python, React,
+and data analysis. I'm looking for software engineering internships and
+volunteer opportunities in education technology. I prefer a friendly but
+professional tone."
